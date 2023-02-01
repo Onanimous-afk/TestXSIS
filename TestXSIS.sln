@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXSIS", "TestXSIS\TestXSIS.csproj", "{0FDC86E7-D523-4FD1-83E7-8F66AC6BD03F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXSIS.nUnits", "TestXSIS.nUnits\TestXSIS.nUnits.csproj", "{0EB7291E-8E64-4102-99E7-B228E84B2845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FDC86E7-D523-4FD1-83E7-8F66AC6BD03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDC86E7-D523-4FD1-83E7-8F66AC6BD03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDC86E7-D523-4FD1-83E7-8F66AC6BD03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDC86E7-D523-4FD1-83E7-8F66AC6BD03F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB7291E-8E64-4102-99E7-B228E84B2845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB7291E-8E64-4102-99E7-B228E84B2845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB7291E-8E64-4102-99E7-B228E84B2845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB7291E-8E64-4102-99E7-B228E84B2845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F117380B-2AC6-4EE3-A54E-00935A3712F2}
+	EndGlobalSection
+EndGlobal
